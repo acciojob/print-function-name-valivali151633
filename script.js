@@ -1,5 +1,7 @@
 //your JS code here. If required.
-function functionName(){
-	console.log("functionName")
+function functionName() {
+    alert("functionName");
 }
-alert(functionName())
+
+// Calling the function will display its own name
+functionName();
